@@ -28,6 +28,7 @@ I have developed a comprehensive Power BI dashboard for AtliQ Hardware, designed
 ![2024-09-01 (2)](https://github.com/user-attachments/assets/0ce1cab2-24e2-44ed-a1aa-9828b24d1e3b)
 
 ### Profit Analysis
+![2024-09-01 (3)](https://github.com/user-attachments/assets/c7f9df79-f6a2-484f-ba5d-d79205b2641f)
 
 ### Performance Analysis
 

@@ -15,7 +15,7 @@ I have developed a comprehensive Power BI dashboard for AtliQ Hardware, designed
 * **Customer Segmentation:** Analyse customer data to identify high-value segments, retention rates, and purchasing behaviors. Enables targeted marketing strategies and personalized customer experiences.
 
 ### Visual and Interactive Reports
-* **Dynamic Visualisations:** Interactive charts, graphs, and maps provide a clear and intuitive understanding of data, making it easier to spot trends, outliers, and patterns.
+* **Dynamic Visualisations:** Interactive charts and graphs provide a clear and intuitive understanding of data, making it easier to spot trends, outliers, and patterns.
 * **User-Friendly Interface:** The dashboard is designed with a user-centric approach, ensuring ease of navigation, customization options, and quick access to critical data.
 
 ## Technologies Used

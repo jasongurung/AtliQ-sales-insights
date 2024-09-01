@@ -25,6 +25,7 @@ I have developed a comprehensive Power BI dashboard for AtliQ Hardware, designed
 ## Snapshots of Dashboard (Power BI Service)
 
 ### Key insights
+![2024-09-01 (2)](https://github.com/user-attachments/assets/0ce1cab2-24e2-44ed-a1aa-9828b24d1e3b)
 
 ### Profit Analysis
 

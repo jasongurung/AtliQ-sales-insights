@@ -22,3 +22,12 @@ I have developed a comprehensive Power BI dashboard for AtliQ Hardware, designed
 * MySQL workbench
 * Power BI
 
+## Snapshots of Dashboard (Power BI Service)
+
+### Key insights
+
+### Profit Analysis
+
+### Performance Analysis
+
+### Mobile App

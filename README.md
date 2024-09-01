@@ -1,4 +1,6 @@
 # AtliQ-sales-insights
 
 ## Overview
-Created a Power BI BI dashboard to understand AtliQ hardware goods sales trend. 
+I have developed a comprehensive Power BI dashboard for AtliQ Hardware, designed to empower users with actionable insights and support data-driven decision-making. This dashboard provides an in-depth analysis of key business metrics, including profits, performance, and overall operational efficiency.
+
+## Key features

@@ -34,3 +34,4 @@ I have developed a comprehensive Power BI dashboard for AtliQ Hardware, designed
 ![2024-09-01 (4)](https://github.com/user-attachments/assets/dbaca100-79ef-47a3-980e-29a6799fbd77)
 
 ### Mobile App
+![image0](https://github.com/user-attachments/assets/cf7d74a1-65dc-4d94-9179-7195e3e3328c)

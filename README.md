@@ -16,7 +16,7 @@ I have developed a comprehensive Power BI dashboard for AtliQ Hardware, designed
 
 ### Visual and Interactive Reports
 * **Dynamic Visualisations:** Interactive charts and graphs provide a clear and intuitive understanding of data, making it easier to spot trends, outliers, and patterns.
-* **User-Friendly Interface:** The dashboard is designed with a user-centric approach, ensuring ease of navigation, customization options, and quick access to critical data.
+* **User-Friendly Interface:** The dashboard is designed with a user-centric approach, ensuring ease of navigation, customization options, and quick access to critical data
 
 ## Technologies Used
 * MySQL workbench
